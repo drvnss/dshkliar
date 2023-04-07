@@ -1,8 +1,4 @@
-a = int(input("Брат, введи мне число епта ежжи, да: "))
-if a>0:
-    print(1)
-elif a<0:
-    print(-1)
-else:
-    print(0)
-    
+
+a = float(input("Введите значение текущего курса: "))
+for i in range(1, 21):
+    print(i * a)
