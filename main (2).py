@@ -1,4 +1,4 @@
-
-a = float(input("Введите значение текущего курса: "))
-for i in range(1, 21):
-    print(i * a)
+e = int(input())
+for i in range (1, 20):
+p = e**i
+print (p)

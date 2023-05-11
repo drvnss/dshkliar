@@ -1,0 +1,5 @@
+import math
+sqrt=math.sqrt
+for x in range (1,100):
+y=sqrt(x)
+print(y)

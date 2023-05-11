@@ -1,3 +1,3 @@
-
-for i in range(1, 10):
-    print(2 + i / 10)
+for i in range (21,30):
+p = i/10
+print (p)

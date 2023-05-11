@@ -1,4 +1,4 @@
-
-a = float(input("Введите значение текущего курса: "))
-for i in range(1, 21):
-    print(i * a)
+y = int ( input ('введите курс доллар в рублях :'))
+for i in range (1, 20):
+p = i * y
+print (p)

@@ -1,2 +1,2 @@
-for i in range(10, 23):
-    print(i * 2.54)
+for i in range(0, 20):
+print(i, "сm = ",i * 2.54, "inch")
