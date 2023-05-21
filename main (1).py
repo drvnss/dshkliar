@@ -1,4 +1,6 @@
-y = int ( input ('введите курс доллар в рублях :'))
-for i in range (1, 20):
-p = i * y
-print (p)
+a, b = input("Введите пробег: "), int(input("Введите число дня: ")) 
+if int(a[0]) + int(a[1]) + int(a[2]) > b: 
+ print(f"Сброс Пробег: 0") 
+else: 
+ print(f"Сегодня не сломался Пробег: {a}")
+
