@@ -1,3 +1,3 @@
-for i in range (1, 21):
-if i%2==0:
-print(i)
+a = int(input("Введите цифру, степени которой хотите вычислить: "))
+for i in range(1, 21):
+    print(a ** i)

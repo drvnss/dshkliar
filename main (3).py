@@ -1,4 +1,3 @@
-e =0.1
-for i in range (1, 20):
-p = i+e
-print (p)
+for i in range(10, 23):
+    print(i * 2.54)
+

@@ -1,3 +1,4 @@
-for i in range (21,30):
-p = i/10
-print (p)
+a = float(input("Введите значение текущего курса: "))
+for i in range(1, 21):
+    print(i * a)
+

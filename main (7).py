@@ -1,4 +1,2 @@
-import math
-for i in range (1, 21):
-sqrt=math.sqrt(i)
-print(sqrt)
+for i in range(1, 10):
+    print(2 + i / 10)

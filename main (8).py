@@ -1,4 +1,3 @@
-a=int(input())
-for i in range (2, 11):
-p=a*i
-print(p)
+for i in range(10):
+    print(2 * i)
+
